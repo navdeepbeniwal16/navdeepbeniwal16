@@ -1,35 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Navdeep Beniwal
-=======================================================================================================================================
+<h1>Hi, I'm Navdeep <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> </h1>
 
-Software Developer | Engineer | Graduate Student
-------------------------------------------------
+<h2>Full-Stack Software Engineer, building products end to end</h2>
 
-Hey there, I'm a Software Developer who loves tackling all sorts of software projects, big and small. Whether it's crafting snazzy AI systems or building microservices that make life easier for big businesses, I'm always ready for a challenge. I've got a knack for every stage of the software development process, from figuring out what's needed all the way to putting the finishing touches on a polished product. I'm totally comfortable with all sorts of frameworks and technologies like Java, Javascript, React, Angular, Node.js, SQL, Docker, and more. Plus, you can consider me a complete sponge when it comes to soaking up new ideas and skills, and I'm always eager to learn more about the latest and greatest in software engineering.
+I like tackling vague, interesting problems using my skills across the stack, and owning them end to end i.e. the spec, the architecture, the APIs, the interfaces, the tests, and deployment to production. My focus currently sits on the backend side, and most of what I build these days has AI somewhere in it. A lot of my work now runs through agentic coding workflows, which for me is less about moving faster and more about moving better.
 
-* 🌍  I'm based in Melbourne, Australia
-* ✉️  You can contact me at [navdeepbeniwal16@gmail.com](mailto:navdeepbeniwal16@gmail.com)
-* 🧠  I'm learning more about React, and TypeScript at the moment
-* 🤝  I'm open to collaborating on TalkTune: An AI-driven web platfrom that empower users to improve their english communication skills by emulating real-world environments and context to practice your skills in, followed by a detailed feedback on your interactions.
-* ⚡  I'm quite excited about the Start-up and AI space, so if you are working on something exciting yourself, I would love to get in touch with you.
+- 🌍  Based in Melbourne, Australia
+- 🛠️  Currently at Sought, rebuilding a single-tenant legal tool into a multi-tenant SaaS platform on AWS
+- 🚀  On the side I'm building [Speachy](https://www.speachy.net), an AI interview-practice app, and [Starlight](https://testflight.apple.com/join/Gm1Mj39Y), an AI-backed day planner that schedules your highest-value tasks into your available time
+- 🌐  More of my work at [navdeepbeniwal.com](https://www.navdeepbeniwal.com)
+- ⚡  Excited about AI and the startup/scale-up ecosystem.
+- ✉️ Building something interesting? Let's get in touch [navdeepbeniwal16@gmail.com](mailto:navdeepbeniwal16@gmail.com)
 
 ### Skills
 
-
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,javascript,python,nodejs,express,nestjs,postgres,aws,docker,react,nextjs" />
+  </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_API-D97757?logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_Coding-1c1917?logo=githubcopilot&logoColor=white" />
+</p>
 
 ### Socials
 
@@ -39,4 +34,4 @@ Hey there, I'm a Software Developer who loves tackling all sorts of software pro
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/navdeepbeniwal16"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=navdeepbeniwal16&bg_color=1c1917&color=14b8a6&line=10b981&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/navdeepbeniwal16"><img src="https://github-readme-activity-graph.vercel.app/graph?username=navdeepbeniwal16&bg_color=1c1917&color=14b8a6&line=10b981&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
