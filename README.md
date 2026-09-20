@@ -29,9 +29,3 @@ I like tackling vague, interesting problems using my skills across the stack, an
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/navdeepbeniwal16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/navdeep16beniwal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/navdeepbeniwal16"><img src="https://github-readme-activity-graph.vercel.app/graph?username=navdeepbeniwal16&bg_color=1c1917&color=14b8a6&line=10b981&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
